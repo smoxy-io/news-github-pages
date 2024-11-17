@@ -1,0 +1,14 @@
+site:
+  title: "Top News"
+  subtitle: "Latest Breaking News"
+  limit: 25
+  theme: theme
+  lang: en
+  url: "https://alltop.news/"
+  link: "{category}/{year}/{month}/{day}/{title}.html"
+
+authors:
+
+build:
+  output: public
+  port: 8009
