@@ -1,0 +1,39 @@
+name: RSS Feed to Markdown
+
+on:
+  schedule:
+    cron: "3,8,13,18,23,28,33,38,43,48,53,58 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  convert_feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get current date
+        id: date
+        run: |
+            echo "::set-output name=year::$(date +'%Y')"
+            echo "::set-output name=month::$(date +'%m')"
+            echo "::set-output name=day::$(date +'%d')"
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          tocken: ${{ secrets.PA_TOKEN }}
+
+      - name: Run RSS Feed to Markdown Action for Tech feed
+        uses: keiranlovett/rss-feed-to-markdown@main
+        with:
+          feed_url: 'tech-feed-urls.json'
+          template_file: 'post-template.md'
+          output_dir: 'public/tech/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.day }}'
+
+      - name: Commit and Push new articles
+        run: |
+            git commit -am "new posts - automated"
+            git push
+        
