@@ -1,6 +1,6 @@
 title: King Richard III given Yorkshire accent using state-of-the-art technology
 date: Sun, 17 Nov 2024 16:37:00 GMT
-cover: ""
+cover: 
 draft: false
 top: false
 preview: 
@@ -14,6 +14,3 @@ toc: false
 _Published on Sun, 17 Nov 2024 16:37:00 GMT_
 
 
-
----
-Categories: 
