@@ -1,7 +1,7 @@
 title: Spirit Airlines filed for bankruptcy What does that mean for travelers
-date: 2024-11-18 21:10:56 +0000
-author: "WYATTE GRANTHAM-PHILIPS and DAVID KOENIG, Associated Press"
-cover: https://thehill.com/wp-content/uploads/sites/2/2024/11/673bad898d99d7.55730482.jpeg?strip=1&w=640
+date: 2024-11-18 21:10:55 +0000
+author: "WYATTE GRANTHAM-PHILIPS and DAVID KOENIG"
+cover: https://s.yimg.com/ny/api/res/1.2/FGJu2iwbSU4raSvvQfL4RQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https:/media.zenfs.com/en/ap_finance_articles_694/b3c14ea4728a9a13b0de3b407b815a7e
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - business
 ---
 
-![](https://thehill.com/wp-content/uploads/sites/2/2024/11/673bad898d99d7.55730482.jpeg?strip=1&w=640)
+![](https://s.yimg.com/ny/api/res/1.2/FGJu2iwbSU4raSvvQfL4RQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https:/media.zenfs.com/en/ap_finance_articles_694/b3c14ea4728a9a13b0de3b407b815a7e)
 
-NEW YORK (AP) — Spirit Airlines, the largest budget carrier in the U.S., filed for Chapter 11 bankruptcy protection Monday. The airline said customers should not see any disruption to their travel …
+The filing followed years of struggles for the Florida-based airline, which is known for its no-frills, low-cost flights. The airline has lost more than $2.5 billion since the beginning of 2020 while also racking up mounting debt. The bankruptcy proceedings are aimed at restructuring the company and shoring up its finances.
 
-[read more](https://thehill.com/homenews/ap/ap-business/ap-spirit-airlines-filed-for-bankruptcy-what-does-that-mean-for-travelers/)
+[read more](https://finance.yahoo.com/news/spirit-airlines-filed-bankruptcy-does-211055105.html)
