@@ -30,7 +30,7 @@ jobs:
         with:
           feed_urls_file: 'tech-feed-urls.json'
           template_file: 'post-templates/tech.md'
-          output_dir: 'source/tech/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.day }}'
+          output_dir: 'source/tech'
           date_format: 'yyyy-MM-dd HH:mm:ss xx'
 
       - name: Run RSS Feed to Markdown Action for Sports feed
@@ -38,7 +38,7 @@ jobs:
         with:
           feed_urls_file: 'sports-feed-urls.json'
           template_file: 'post-templates/sports.md'
-          output_dir: 'source/sports/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.day }}'
+          output_dir: 'source/sports'
           date_format: 'yyyy-MM-dd HH:mm:ss xx'
 
       - name: Run RSS Feed to Markdown Action for Business feed
@@ -46,7 +46,7 @@ jobs:
         with:
           feed_urls_file: 'business-feed-urls.json'
           template_file: 'post-templates/business.md'
-          output_dir: 'source/business/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.day }}'
+          output_dir: 'source/business'
           date_format: 'yyyy-MM-dd HH:mm:ss xx'
 
       - name: Commit and Push new articles
