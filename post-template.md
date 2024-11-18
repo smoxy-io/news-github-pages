@@ -1,6 +1,6 @@
 title: [TITLE]
 date: [DATE]
-cover: "[IMAGE]"
+cover: [IMAGE]
 draft: false
 top: false
 preview: [DESCRIPTION]
@@ -14,6 +14,3 @@ toc: false
 _Published on [DATE]_
 
 [MARKDOWN]
-
----
-Categories: [CATEGORIES]
