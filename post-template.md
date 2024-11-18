@@ -7,6 +7,8 @@ preview: "[DESCRIPTION]"
 type: post
 hide: false
 toc: false
+tags:
+  - Tech
 ---
 
 # [TITLE]
@@ -14,3 +16,5 @@ toc: false
 _Published on [DATE]_
 
 [MARKDOWN]
+
+[read more]([LINK])
