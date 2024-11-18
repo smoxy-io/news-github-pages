@@ -28,7 +28,7 @@ jobs:
       - name: Run RSS Feed to Markdown Action for Tech feed
         uses: keiranlovett/rss-feed-to-markdown@main
         with:
-          feed_url: 'tech-feed-urls.json'
+          feed_urls_file: 'tech-feed-urls.json'
           template_file: 'post-template.md'
           output_dir: 'source/tech'
 
