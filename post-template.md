@@ -3,7 +3,7 @@ date: [DATE]
 cover: [IMAGE]
 draft: false
 top: false
-preview: [DESCRIPTION]
+preview: "[DESCRIPTION]"
 type: post
 hide: false
 toc: false
