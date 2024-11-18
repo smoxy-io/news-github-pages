@@ -1,6 +1,6 @@
 title: [TITLE]
 date: [DATE]
-author: [AUTHOR]
+author: "[AUTHOR]"
 cover: [IMAGE]
 draft: false
 top: false
