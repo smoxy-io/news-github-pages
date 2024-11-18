@@ -1,5 +1,5 @@
 title: Teslas 4680 battery cell will never be successful CATL chairman
-date: Sat, 16 Nov 2024 20:23:34 GMT
+date: 2024-11-16 20:23:34 +0000
 cover: 
 draft: false
 top: false
@@ -11,7 +11,7 @@ toc: false
 
 # Teslas 4680 battery cell will never be successful CATL chairman
 ##### By Zachary Visconti
-_Published on Sat, 16 Nov 2024 20:23:34 GMT_
+_Published on 2024-11-16 20:23:34 +0000_
 
 ![](https://www.teslarati.com/wp-content/uploads/2022/08/4680-cells.jpeg)
 

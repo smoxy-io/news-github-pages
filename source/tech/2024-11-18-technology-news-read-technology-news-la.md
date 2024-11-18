@@ -1,5 +1,5 @@
 title: Technology News Read Technology news latest Tech updates today
-date: Mon, 18 Nov 2024 00:30:00 GMT
+date: 2024-11-18 00:30:00 +0000
 cover: 
 draft: false
 top: false
@@ -11,7 +11,7 @@ toc: false
 
 # Technology News Read Technology news latest Tech updates today
 ##### By The Economic Times
-_Published on Mon, 18 Nov 2024 00:30:00 GMT_
+_Published on 2024-11-18 00:30:00 +0000_
 
 ![](https://img.etimg.com/thumb/msid-65498029,width-672,resizemode-4/et-logo.jpg)
 

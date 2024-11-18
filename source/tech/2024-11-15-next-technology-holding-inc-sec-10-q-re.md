@@ -1,5 +1,5 @@
 title: Next Technology Holding Inc SEC 10-Q Report
-date: Fri, 15 Nov 2024 18:43:01 GMT
+date: 2024-11-15 18:43:01 +0000
 cover: 
 draft: false
 top: false
@@ -11,7 +11,7 @@ toc: false
 
 # Next Technology Holding Inc SEC 10-Q Report
 ##### By TradingView
-_Published on Fri, 15 Nov 2024 18:43:01 GMT_
+_Published on 2024-11-15 18:43:01 +0000_
 
 ![](https://s.tradingview.com/static/images/illustrations/news-story.jpg)
 

@@ -1,5 +1,5 @@
 title: How Hotels Can Apply Wave Tech to Sleep Spa and Wellness to Enhance the Guest Experience and Unlock New Value
-date: Fri, 15 Nov 2024 16:28:45 GMT
+date: 2024-11-15 16:28:45 +0000
 cover: 
 draft: false
 top: false
@@ -11,7 +11,7 @@ toc: false
 
 # How Hotels Can Apply Wave Tech to Sleep Spa and Wellness to Enhance the Guest Experience and Unlock New Value
 ##### By HTN Editors
-_Published on Fri, 15 Nov 2024 16:28:45 GMT_
+_Published on 2024-11-15 16:28:45 +0000_
 
 ![](https://hoteltechnologynews.com/wp-content/uploads/2024/11/Hotel_Due_Torri_Verona_HealthWellnessCentre_4.jpg)
 

@@ -1,5 +1,5 @@
 title: Amazons launches its new fancy Omni Mini-LED Fire TV series Poc Network Tech
-date: Sun, 17 Nov 2024 18:53:18 GMT
+date: 2024-11-17 18:53:18 +0000
 cover: 
 draft: false
 top: false
@@ -11,7 +11,7 @@ toc: false
 
 # Amazons launches its new fancy Omni Mini-LED Fire TV series Poc Network Tech
 ##### By Zack Bishop
-_Published on Sun, 17 Nov 2024 18:53:18 GMT_
+_Published on 2024-11-17 18:53:18 +0000_
 
 ![](https://www.pocnetwork.net/wp-content/zuploads/2024/11/Amazon-Fire-TV-Omni-Mini-LED-Series-jpg.webp)
 

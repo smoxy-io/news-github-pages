@@ -1,5 +1,5 @@
 title: Is iRay Technology SHSE688301 A Risky Investment
-date: Mon, 18 Nov 2024 02:46:33 GMT
+date: 2024-11-18 02:46:33 +0000
 cover: 
 draft: false
 top: false
@@ -11,7 +11,7 @@ toc: false
 
 # Is iRay Technology SHSE688301 A Risky Investment
 ##### By Simply Wall St
-_Published on Mon, 18 Nov 2024 02:46:33 GMT_
+_Published on 2024-11-18 02:46:33 +0000_
 
 ![](https://images.simplywall.st/asset/industry/6021000-choice2-main-header/1585186837163)
 

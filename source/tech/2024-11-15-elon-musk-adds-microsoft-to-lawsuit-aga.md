@@ -1,5 +1,5 @@
 title: Elon Musk adds Microsoft to lawsuit against ChatGPT-maker OpenAI
-date: Fri, 15 Nov 2024 17:16:38 GMT
+date: 2024-11-15 17:16:38 +0000
 cover: 
 draft: false
 top: false
@@ -11,7 +11,7 @@ toc: false
 
 # Elon Musk adds Microsoft to lawsuit against ChatGPT-maker OpenAI
 ##### By bbc.com
-_Published on Fri, 15 Nov 2024 17:16:38 GMT_
+_Published on 2024-11-15 17:16:38 +0000_
 
 ![](https://ichef.bbci.co.uk/news/1024/branded_news/ec74/live/ac941d20-a36f-11ef-8d97-f3aff54c9bfc.jpg)
 

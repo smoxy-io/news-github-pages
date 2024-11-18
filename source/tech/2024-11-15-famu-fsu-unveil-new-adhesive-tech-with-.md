@@ -1,5 +1,5 @@
 title: FAMU-FSU Unveil New Adhesive Tech with Secret Ingredient
-date: Fri, 15 Nov 2024 18:33:00 GMT
+date: 2024-11-15 18:33:00 +0000
 cover: 
 draft: false
 top: false
@@ -11,7 +11,7 @@ toc: false
 
 # FAMU-FSU Unveil New Adhesive Tech with Secret Ingredient
 ##### By Mirage News
-_Published on Fri, 15 Nov 2024 18:33:00 GMT_
+_Published on 2024-11-15 18:33:00 +0000_
 
 ![](https://news.fsu.edu/wp-content/uploads/2024/11/HoyongChung-polyzwitterion-news-1200x800.jpg)
 

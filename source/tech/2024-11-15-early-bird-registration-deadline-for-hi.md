@@ -1,5 +1,5 @@
 title: Early Bird Registration Deadline for HIMSS25 Nears
-date: Fri, 15 Nov 2024 17:01:27 GMT
+date: 2024-11-15 17:01:27 +0000
 cover: 
 draft: false
 top: false
@@ -11,7 +11,7 @@ toc: false
 
 # Early Bird Registration Deadline for HIMSS25 Nears
 ##### By Imaging Technology News
-_Published on Fri, 15 Nov 2024 17:01:27 GMT_
+_Published on 2024-11-15 17:01:27 +0000_
 
 ![](http://www.itnonline.com/sites/default/files/HIMSS%20Logo_3.png)
 
