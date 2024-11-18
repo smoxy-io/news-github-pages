@@ -1,7 +1,7 @@
 title: Musk draws scrutiny over SpaceX contracts
 date: 2024-11-15 22:47:23 +0000
 author: "Julia Shapero,Miranda Nazzaro"
-cover: 
+cover: https://thehill.com/wp-content/uploads/sites/2/2023/01/muskelon_spacex_120120_Hannibal-Hanschke_Pool-via-AP.jpeg?strip=1&w=640
 draft: false
 top: false
 type: post

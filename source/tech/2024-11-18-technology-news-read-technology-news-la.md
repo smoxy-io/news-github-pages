@@ -1,7 +1,7 @@
 title: Technology News Read Technology news latest Tech updates today
 date: 2024-11-18 00:30:00 +0000
 author: "The Economic Times"
-cover: 
+cover: https://img.etimg.com/thumb/msid-65498029,width-672,resizemode-4/et-logo.jpg
 draft: false
 top: false
 type: post

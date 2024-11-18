@@ -1,7 +1,7 @@
 title: Trending News Live Today November 18 2024 Angry CEO fires 99 employees over Slack message for not attending meeting Get the f out
 date: 2024-11-18 02:21:40 +0000
 author: "HT News Desk"
-cover: 
+cover: https://www.hindustantimes.com/ht-img/img/2024/11/18/550x309/shutterstock_1717868140_1731896448994_1731896461424.jpg
 draft: false
 top: false
 type: post

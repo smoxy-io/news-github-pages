@@ -1,7 +1,7 @@
 title: TechMarketView
 date: 2024-11-16 00:00:00 +0000
 author: "TechMarketView"
-cover: 
+cover: https://www.techmarketview.com/images/tmv-twitter-card.png
 draft: false
 top: false
 type: post

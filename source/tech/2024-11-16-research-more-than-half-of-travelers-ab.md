@@ -1,7 +1,7 @@
 title: Research More than Half of Travelers Abandon the Online Booking Process Due to Poor User Experience
 date: 2024-11-16 02:09:37 +0000
 author: "HTN Editors"
-cover: 
+cover: https://hoteltechnologynews.com/wp-content/uploads/2024/11/15.webp
 draft: false
 top: false
 type: post

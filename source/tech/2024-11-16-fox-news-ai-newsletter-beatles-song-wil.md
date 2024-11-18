@@ -1,7 +1,7 @@
 title: Fox News AI Newsletter Beatles song will push the limit
 date: 2024-11-16 13:30:42 +0000
 author: "@wfinradio"
-cover: 
+cover: https://wfin.com/wp-content/uploads/2018/03/WFIN-AM-FM-logo.png
 draft: false
 top: false
 type: post

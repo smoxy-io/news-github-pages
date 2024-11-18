@@ -1,7 +1,7 @@
 title: Norman Regional Hospital offers lung cancer screenings with new technology
 date: 2024-11-16 20:17:00 +0000
 author: "Sam Royka Transcript Staff Reporter"
-cover: 
+cover: https://bloximages.chicago2.vip.townnews.com/cnhinews.com/content/tncms/custom/image/677ca584-6c5d-11e5-89dd-b39d0566fa1d.jpg?resize=600%2C315
 draft: false
 top: false
 type: post
