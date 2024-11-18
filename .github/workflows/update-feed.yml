@@ -30,7 +30,7 @@ jobs:
         with:
           feed_urls_file: 'tech-feed-urls.json'
           template_file: 'post-templates/tech.md'
-          output_dir: 'source/tech'
+          output_dir: 'source/tech/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.day }}'
           date_format: 'yyyy-MM-dd HH:mm:ss xx'
 
       - name: Run RSS Feed to Markdown Action for Sports feed
@@ -38,15 +38,24 @@ jobs:
         with:
           feed_urls_file: 'sports-feed-urls.json'
           template_file: 'post-templates/sports.md'
-          output_dir: 'source/sports'
+          output_dir: 'source/sports/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.day }}'
+          date_format: 'yyyy-MM-dd HH:mm:ss xx'
+
+      - name: Run RSS Feed to Markdown Action for Business feed
+        uses: smoxy-io/rss-feed-to-markdown@images
+        with:
+          feed_urls_file: 'business-feed-urls.json'
+          template_file: 'post-templates/business.md'
+          output_dir: 'source/business/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.day }}'
           date_format: 'yyyy-MM-dd HH:mm:ss xx'
 
       - name: Commit and Push new articles
         run: |
             git config --global user.email "cthayer@users.noreply.github.com"
             git config --global user.name "cthayer via GitHub Actions"
-            git add source/tech/*.md
-            git add source/sports/*.md
+            git add source/tech/**/*.md
+            git add source/sports/**/*.md
+            git add source/business/**/*.md
             git commit -am "new posts - automated"
             git push
         
