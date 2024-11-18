@@ -3,7 +3,7 @@ date: 2024-11-16 13:30:42 +0000
 cover: 
 draft: false
 top: false
-preview: Welcome to Fox News’ Artificial Intelligence newsletter with the latest AI technology advancements. IN TODAY’S NEWSLETTER: - The Beatles' AI-assisted song’s Grammy nomination could ‘push the limit’ on interest in the technology- Gary Marcus: OpenAI could be the next WeWork- Trump is not going to regulate AI industry with Musk
+preview: "Welcome to Fox News’ Artificial Intelligence newsletter with the latest AI technology advancements. IN TODAY’S NEWSLETTER: - The Beatles' AI-assisted song’s Grammy nomination could ‘push the limit’ on interest in the technology- Gary Marcus: OpenAI could be the next WeWork- Trump is not going to regulate AI industry with Musk"
 type: post
 hide: false
 toc: false

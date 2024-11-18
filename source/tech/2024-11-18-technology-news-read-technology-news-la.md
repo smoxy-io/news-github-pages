@@ -3,7 +3,7 @@ date: 2024-11-18 00:30:00 +0000
 cover: 
 draft: false
 top: false
-preview: Technology News: Read the latest Technology News, Tech Updates On The Economic Times. Get the latest Internet News, Tech reviews & specifications from across the globe.
+preview: "Technology News: Read the latest Technology News, Tech Updates On The Economic Times. Get the latest Internet News, Tech reviews & specifications from across the globe."
 type: post
 hide: false
 toc: false
