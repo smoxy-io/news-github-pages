@@ -7,6 +7,8 @@ preview: "US student calls for more oversight of artificial intelligence technol
 type: post
 hide: false
 toc: false
+tags:
+  - Tech
 ---
 
 # Please die Googles AI chatbot shocks student seeking help with homework
@@ -16,3 +18,5 @@ _Published on 2024-11-16 09:12:20 +0000_
 ![](https://bsmedia.business-standard.com/_media/bs/img/article/2024-10/08/thumb/featurecrop/600X300/1728377614-3554.JPG)
 
 US student calls for more oversight of artificial intelligence technology as Google's Gemini responds with threatening message to homework query
+
+[read more](https://www.business-standard.com/technology/tech-news/please-die-google-s-ai-chatbot-shocks-student-seeking-help-with-homework-124111600448_1.html)

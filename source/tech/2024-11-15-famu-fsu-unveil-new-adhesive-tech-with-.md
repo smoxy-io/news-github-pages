@@ -7,6 +7,8 @@ preview: "Hoyong Chung, right, an associate professor in the Department of Chemi
 type: post
 hide: false
 toc: false
+tags:
+  - Tech
 ---
 
 # FAMU-FSU Unveil New Adhesive Tech with Secret Ingredient
@@ -16,3 +18,5 @@ _Published on 2024-11-15 18:33:00 +0000_
 ![](https://news.fsu.edu/wp-content/uploads/2024/11/HoyongChung-polyzwitterion-news-1200x800.jpg)
 
 Hoyong Chung, right, an associate professor in the Department of Chemical and Biomedical Engineering at the FAMU-FSU College of Engineering, led a
+
+[read more](https://www.miragenews.com/famu-fsu-unveil-new-adhesive-tech-with-secret-1358625/)

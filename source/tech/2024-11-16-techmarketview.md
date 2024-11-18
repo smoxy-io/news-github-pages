@@ -7,6 +7,8 @@ preview: "Bringing you opinionated, authoritative research & analysis on the UK 
 type: post
 hide: false
 toc: false
+tags:
+  - Tech
 ---
 
 # TechMarketView
@@ -16,3 +18,5 @@ _Published on 2024-11-16 00:00:00 +0000_
 ![](https://www.techmarketview.com/images/tmv-twitter-card.png)
 
 Bringing you opinionated, authoritative research & analysis on the UK technology scene.
+
+[read more](https://www.techmarketview.com/ukhotviews/)

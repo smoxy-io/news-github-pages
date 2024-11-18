@@ -7,6 +7,8 @@ preview: ""
 type: post
 hide: false
 toc: false
+tags:
+  - Tech
 ---
 
 # King Richard III given Yorkshire accent using state-of-the-art technology
@@ -14,3 +16,5 @@ toc: false
 _Published on 2024-11-17 16:37:00 +0000_
 
 
+
+[read more](https://news.sky.com/story/king-richard-iii-given-yorkshire-accent-using-state-of-the-art-technology-13255791)

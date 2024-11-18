@@ -7,6 +7,8 @@ preview: "A chairman from China-based battery giant CATL recently cast doubt on 
 type: post
 hide: false
 toc: false
+tags:
+  - Tech
 ---
 
 # Teslas 4680 battery cell will never be successful CATL chairman
@@ -16,3 +18,5 @@ _Published on 2024-11-16 20:23:34 +0000_
 ![](https://www.teslarati.com/wp-content/uploads/2022/08/4680-cells.jpeg)
 
 A chairman from China-based battery giant CATL recently cast doubt on Tesla's 4680 battery cell, saying that he didn't think it would be...
+
+[read more](https://www.teslarati.com/tesla-4680-battery-cell-catl/)
