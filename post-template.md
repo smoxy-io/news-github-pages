@@ -1,6 +1,6 @@
 title: [TITLE]
 date: [DATE]
-cover: Article Cover Path # Optional
+cover: "[IMAGE]"
 draft: false
 top: false
 preview: [DESCRIPTION]

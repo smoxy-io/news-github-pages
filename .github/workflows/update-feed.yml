@@ -30,7 +30,7 @@ jobs:
         with:
           feed_url: 'tech-feed-urls.json'
           template_file: 'post-template.md'
-          output_dir: 'public/tech/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.day }}'
+          output_dir: 'source/tech'
 
       - name: Commit and Push new articles
         run: |
