@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 [MARKDOWN]
