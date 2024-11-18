@@ -1,6 +1,6 @@
 title: International guests visit ATU learn about technology
 date: 2024-11-15 20:26:20 +0000
-author: ATU MEDIA RELATIONS
+author: "ATU MEDIA RELATIONS"
 cover: 
 draft: false
 top: false

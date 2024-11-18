@@ -1,6 +1,6 @@
 title: TechMarketView
 date: 2024-11-16 00:00:00 +0000
-author: TechMarketView
+author: "TechMarketView"
 cover: 
 draft: false
 top: false

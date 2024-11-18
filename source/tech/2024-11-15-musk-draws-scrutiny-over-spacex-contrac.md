@@ -1,6 +1,6 @@
 title: Musk draws scrutiny over SpaceX contracts
 date: 2024-11-15 22:47:23 +0000
-author: Julia Shapero,Miranda Nazzaro
+author: "Julia Shapero,Miranda Nazzaro"
 cover: 
 draft: false
 top: false

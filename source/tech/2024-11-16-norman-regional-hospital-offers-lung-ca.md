@@ -1,6 +1,6 @@
 title: Norman Regional Hospital offers lung cancer screenings with new technology
 date: 2024-11-16 20:17:00 +0000
-author: Sam Royka Transcript Staff Reporter
+author: "Sam Royka Transcript Staff Reporter"
 cover: 
 draft: false
 top: false

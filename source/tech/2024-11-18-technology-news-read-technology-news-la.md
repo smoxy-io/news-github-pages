@@ -1,6 +1,6 @@
 title: Technology News Read Technology news latest Tech updates today
 date: 2024-11-18 00:30:00 +0000
-author: The Economic Times
+author: "The Economic Times"
 cover: 
 draft: false
 top: false

@@ -1,6 +1,6 @@
 title: Please die Googles AI chatbot shocks student seeking help with homework
 date: 2024-11-16 09:12:20 +0000
-author: Business Standard
+author: "Business Standard"
 cover: 
 draft: false
 top: false

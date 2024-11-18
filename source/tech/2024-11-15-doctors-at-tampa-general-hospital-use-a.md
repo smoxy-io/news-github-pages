@@ -1,6 +1,6 @@
 title: Doctors at Tampa General Hospital use advanced technology to benefit organ transplant recipients
 date: 2024-11-15 20:08:25 +0000
-author: Lauren St. Germain
+author: "Lauren St. Germain"
 cover: 
 draft: false
 top: false

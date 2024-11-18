@@ -1,6 +1,6 @@
 title: King Richard III given Yorkshire accent using state-of-the-art technology
 date: 2024-11-17 16:37:00 +0000
-author: Charlotte Leeming, North of England correspondent
+author: "Charlotte Leeming, North of England correspondent"
 cover: 
 draft: false
 top: false

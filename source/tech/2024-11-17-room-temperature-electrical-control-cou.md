@@ -1,6 +1,6 @@
 title: Room temperature electrical control could heat up future technology development
 date: 2024-11-17 00:00:00 +0000
-author: psu.edu
+author: "psu.edu"
 cover: 
 draft: false
 top: false

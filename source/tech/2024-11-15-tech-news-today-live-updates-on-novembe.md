@@ -1,6 +1,6 @@
 title: Tech News Today Live Updates on November 16 2024 Western Digital My Passport 6TB HDD Review Sturdy spacious and secure
 date: 2024-11-15 19:27:13 +0000
-author: Livemint
+author: "Livemint"
 cover: 
 draft: false
 top: false

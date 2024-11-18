@@ -1,6 +1,6 @@
 title: InventHelp Inventor Develops New Wearable TechnologyCoat PDK-403
 date: 2024-11-15 19:00:00 +0000
-author: InventHelp
+author: "InventHelp"
 cover: 
 draft: false
 top: false

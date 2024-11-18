@@ -1,6 +1,6 @@
 title: Hotelverse Secures 63 Million to Expand its Digital Twin Technology for Hotels
 date: 2024-11-16 02:37:41 +0000
-author: HTN Editors
+author: "HTN Editors"
 cover: 
 draft: false
 top: false

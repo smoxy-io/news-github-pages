@@ -1,6 +1,6 @@
 title: Consumer Tech News November 11-15 Apple Plans To Launch An AI Wall Tablet Meta Plans To Introduce Ads On Threads More - Apple NASDAQAAPL Amazoncom NASDAQAMZN
 date: 2024-11-16 16:23:06 +0000
-author: Lekha Gupta
+author: "Lekha Gupta"
 cover: 
 draft: false
 top: false

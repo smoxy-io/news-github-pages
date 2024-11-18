@@ -1,6 +1,6 @@
 title: Is iRay Technology SHSE688301 A Risky Investment
 date: 2024-11-18 02:46:33 +0000
-author: Simply Wall St
+author: "Simply Wall St"
 cover: 
 draft: false
 top: false

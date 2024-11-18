@@ -1,6 +1,6 @@
 title: Tech News Today Live Updates on November 17 2024 Best tablets to buy under 25000 in November 2024 Poco Pad 5G OnePlus Pad Go Honor Pad 9 and more
 date: 2024-11-17 01:39:18 +0000
-author: Livemint
+author: "Livemint"
 cover: 
 draft: false
 top: false

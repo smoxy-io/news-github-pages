@@ -1,6 +1,6 @@
 title: Amazons launches its new fancy Omni Mini-LED Fire TV series Poc Network Tech
 date: 2024-11-17 18:53:18 +0000
-author: Zack Bishop
+author: "Zack Bishop"
 cover: 
 draft: false
 top: false

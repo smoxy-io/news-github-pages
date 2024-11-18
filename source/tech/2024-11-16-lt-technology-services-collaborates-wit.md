@@ -1,6 +1,6 @@
 title: LT Technology Services collaborates with Colorado Smart Cities Alliance
 date: 2024-11-16 09:20:00 +0000
-author: Capital Market
+author: "Capital Market"
 cover: 
 draft: false
 top: false

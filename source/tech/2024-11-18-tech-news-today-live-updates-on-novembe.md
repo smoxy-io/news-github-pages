@@ -1,6 +1,6 @@
 title: Tech News Today Live Updates on November 18 2024 Apple said to launch AirTag 2 with 3 big changes next year All you need to know
 date: 2024-11-18 01:53:55 +0000
-author: Livemint
+author: "Livemint"
 cover: 
 draft: false
 top: false

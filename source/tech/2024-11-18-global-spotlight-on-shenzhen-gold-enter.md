@@ -1,6 +1,6 @@
 title: Global spotlight on Shenzhen gold enterprises innovative technology
 date: 2024-11-18 03:30:00 +0000
-author: ShenZhen KINGHOOD Group Co., Ltd.
+author: "ShenZhen KINGHOOD Group Co., Ltd."
 cover: 
 draft: false
 top: false

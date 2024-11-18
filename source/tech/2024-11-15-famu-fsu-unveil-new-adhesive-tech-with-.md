@@ -1,6 +1,6 @@
 title: FAMU-FSU Unveil New Adhesive Tech with Secret Ingredient
 date: 2024-11-15 18:33:00 +0000
-author: Mirage News
+author: "Mirage News"
 cover: 
 draft: false
 top: false
