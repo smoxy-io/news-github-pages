@@ -3,7 +3,7 @@ date: 2024-11-15 19:00:00 +0000
 cover: 
 draft: false
 top: false
-preview: PITTSBURGH, Nov. 15, 2024 /PRNewswire/ -- "I wanted to create a fun, fashionable and functional piece of outerwear that enables you to listen to music/podcasts or talk on the phone
+preview: "PITTSBURGH, Nov. 15, 2024 /PRNewswire/ -- "I wanted to create a fun, fashionable and functional piece of outerwear that enables you to listen to music/podcasts or talk on the phone"
 type: post
 hide: false
 toc: false

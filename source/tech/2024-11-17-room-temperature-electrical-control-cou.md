@@ -3,7 +3,7 @@ date: 2024-11-17 00:00:00 +0000
 cover: 
 draft: false
 top: false
-preview: An old physical phenomenon, known as the Hall effect, has revealed some new tricks, according to a team co-led by researchers at Penn State and the Massachusetts Institute of Technology. They reported their findings, which they said have potential implications for understanding fundamental physics of quantum materials and developing applied
+preview: "An old physical phenomenon, known as the Hall effect, has revealed some new tricks, according to a team co-led by researchers at Penn State and the Massachusetts Institute of Technology. They reported their findings, which they said have potential implications for understanding fundamental physics of quantum materials and developing applied"
 type: post
 hide: false
 toc: false

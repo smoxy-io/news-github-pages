@@ -3,7 +3,7 @@ date: 2024-11-18 02:46:33 +0000
 cover: 
 draft: false
 top: false
-preview: Legendary fund manager Li Lu (who Charlie Munger backed) once said, 'The biggest investment risk is not the volatility...
+preview: "Legendary fund manager Li Lu (who Charlie Munger backed) once said, 'The biggest investment risk is not the volatility..."
 type: post
 hide: false
 toc: false

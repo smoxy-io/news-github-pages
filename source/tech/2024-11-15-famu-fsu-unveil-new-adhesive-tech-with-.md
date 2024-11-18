@@ -3,7 +3,7 @@ date: 2024-11-15 18:33:00 +0000
 cover: 
 draft: false
 top: false
-preview: Hoyong Chung, right, an associate professor in the Department of Chemical and Biomedical Engineering at the FAMU-FSU College of Engineering, led a
+preview: "Hoyong Chung, right, an associate professor in the Department of Chemical and Biomedical Engineering at the FAMU-FSU College of Engineering, led a"
 type: post
 hide: false
 toc: false

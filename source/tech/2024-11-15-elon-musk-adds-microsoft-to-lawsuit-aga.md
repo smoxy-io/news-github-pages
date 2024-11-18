@@ -3,7 +3,7 @@ date: 2024-11-15 17:16:38 +0000
 cover: 
 draft: false
 top: false
-preview: Mr Musk, a co-founder of the company, is accusing it and the tech giant of operating a monopoly.
+preview: "Mr Musk, a co-founder of the company, is accusing it and the tech giant of operating a monopoly."
 type: post
 hide: false
 toc: false

@@ -3,7 +3,7 @@ date: 2024-11-15 20:26:20 +0000
 cover: 
 draft: false
 top: false
-preview: Seven representatives from the U.S. Department of State International Visitor Leadership Program met with Arkansas Tech University faculty and staff members during their visit to the Russellville campus on Thursday,
+preview: "Seven representatives from the U.S. Department of State International Visitor Leadership Program met with Arkansas Tech University faculty and staff members during their visit to the Russellville campus on Thursday,"
 type: post
 hide: false
 toc: false

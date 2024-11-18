@@ -3,7 +3,7 @@ date: 2024-11-16 09:12:20 +0000
 cover: 
 draft: false
 top: false
-preview: US student calls for more oversight of artificial intelligence technology as Google's Gemini responds with threatening message to homework query
+preview: "US student calls for more oversight of artificial intelligence technology as Google's Gemini responds with threatening message to homework query"
 type: post
 hide: false
 toc: false

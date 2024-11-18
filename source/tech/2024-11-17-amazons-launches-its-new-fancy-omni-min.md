@@ -3,7 +3,7 @@ date: 2024-11-17 18:53:18 +0000
 cover: 
 draft: false
 top: false
-preview: Amazon has dropped its latest line of Fire TV models, delivering a series that excels past the models you might normally be used to running into. The company seems to be looking to push into the higher-end section of the market, applying a little pressure to names like Samsung and
+preview: "Amazon has dropped its latest line of Fire TV models, delivering a series that excels past the models you might normally be used to running into. The company seems to be looking to push into the higher-end section of the market, applying a little pressure to names like Samsung and"
 type: post
 hide: false
 toc: false

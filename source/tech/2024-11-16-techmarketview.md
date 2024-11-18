@@ -3,7 +3,7 @@ date: 2024-11-16 00:00:00 +0000
 cover: 
 draft: false
 top: false
-preview: Bringing you opinionated, authoritative research & analysis on the UK technology scene.
+preview: "Bringing you opinionated, authoritative research & analysis on the UK technology scene."
 type: post
 hide: false
 toc: false

@@ -3,7 +3,7 @@ date: 2024-11-16 16:23:06 +0000
 cover: 
 draft: false
 top: false
-preview: The EU directed Apple to stop geo-blocking on its media services. Taylor Swift fans leave Twitter for Bluesky. Microsoft hints at a hand-held Xbox.
+preview: "The EU directed Apple to stop geo-blocking on its media services. Taylor Swift fans leave Twitter for Bluesky. Microsoft hints at a hand-held Xbox."
 type: post
 hide: false
 toc: false

@@ -1,0 +1,18 @@
+title: Global spotlight on Shenzhen gold enterprises innovative technology
+date: 2024-11-18 03:30:00 +0000
+cover: 
+draft: false
+top: false
+preview: "SHENZHEN, China, Nov. 17, 2024 /PRNewswire/ -- Kinghood Group's Smart Gold Store was honoured with the Certificate of the World's First Gold Recycle Smart Terminal and made its global debut"
+type: post
+hide: false
+toc: false
+---
+
+# Global spotlight on Shenzhen gold enterprises innovative technology
+##### By ShenZhen KINGHOOD Group Co., Ltd.
+_Published on 2024-11-18 03:30:00 +0000_
+
+![](https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/e/c2/ec26983c-c7d6-5e95-a144-079c01568828/673ab84d58a37.image.jpg?crop=1379%2C724%2C0%2C97&resize=438%2C230&order=crop%2Cresize)
+
+SHENZHEN, China, Nov. 17, 2024 /PRNewswire/ -- Kinghood Group's Smart Gold Store was honoured with the Certificate of the World's First Gold Recycle Smart Terminal and made its global debut

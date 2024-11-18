@@ -3,7 +3,7 @@ date: 2024-11-16 20:23:34 +0000
 cover: 
 draft: false
 top: false
-preview: A chairman from China-based battery giant CATL recently cast doubt on Tesla's 4680 battery cell, saying that he didn't think it would be...
+preview: "A chairman from China-based battery giant CATL recently cast doubt on Tesla's 4680 battery cell, saying that he didn't think it would be..."
 type: post
 hide: false
 toc: false
