@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.PA_TOKEN }}
 
       - name: Run RSS Feed to Markdown Action for Tech feed
-        uses: smoxy-io/rss-feed-to-markdown@date-format
+        uses: smoxy-io/rss-feed-to-markdown@images
         with:
           feed_urls_file: 'tech-feed-urls.json'
           template_file: 'post-template.md'
