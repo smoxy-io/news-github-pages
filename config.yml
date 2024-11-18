@@ -6,9 +6,14 @@ site:
   lang: en
   url: "https://alltop.news/"
   link: "{category}/{year}/{month}/{day}/{title}.html"
+  logo: "-/images/logo-white.svg"
+  config:
+    Subtitle: "Sports | Tech"
 
 authors:
 
 build:
   output: public
   port: 8009
+  copy:
+    - "source/images"
