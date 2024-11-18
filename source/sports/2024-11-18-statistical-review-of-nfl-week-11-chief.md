@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Sports
+categories:
+  - sports
 ---
 
 ![](https://media.pff.com/2024/11/Lions-Alamy2-scaled.jpg?w=1200&h=675)

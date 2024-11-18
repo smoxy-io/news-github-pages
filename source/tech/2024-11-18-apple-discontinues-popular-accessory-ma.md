@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://nypost.com/wp-content/uploads/sites/2/2024/11/apple-logo-hangs-entrance-apple-93893167.jpg?quality=75&strip=all&w=1024)

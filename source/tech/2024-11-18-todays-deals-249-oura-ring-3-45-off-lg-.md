@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://bgr.com/wp-content/uploads/2023/04/BGR-Deals-Of-The-Day-2023-Monday.jpg?resize=1200%2C628)

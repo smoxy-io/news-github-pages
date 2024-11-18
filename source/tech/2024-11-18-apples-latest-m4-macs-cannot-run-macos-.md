@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://cdn.wccftech.com/wp-content/uploads/2024/11/M4-Mac-e1731942139426.jpg)

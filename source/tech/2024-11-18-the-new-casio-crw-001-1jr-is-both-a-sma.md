@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/k7bNU5wrugbFRKswmrkBxn-1200-80.jpg)

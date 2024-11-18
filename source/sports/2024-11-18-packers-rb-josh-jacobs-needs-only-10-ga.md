@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Sports
+categories:
+  - sports
 ---
 
 ![](https://s.yimg.com/ny/api/res/1.2/W_Lk_Ct6JEnmzaYMd20DHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https:/media.zenfs.com/en/green_bay_packers_wire_usa_today_sports_articles_327/65c4d07585b459204f2e6da8c198ccf3)

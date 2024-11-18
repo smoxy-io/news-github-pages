@@ -10,6 +10,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/11/silverstone-flp01-retro-pc-case-in-japan.jpg)

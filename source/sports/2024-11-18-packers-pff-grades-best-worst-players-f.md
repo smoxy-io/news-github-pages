@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Sports
+categories:
+  - sports
 ---
 
 ![](https://packerswire.usatoday.com/wp-content/uploads/sites/57/2024/11/USATSI_24786558.jpg?w=640)

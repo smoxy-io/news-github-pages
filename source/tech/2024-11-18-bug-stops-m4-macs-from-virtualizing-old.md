@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://photos5.appleinsider.com/gallery/61772-127844-48470-94604-51687877052_70e4ddc8b3_k(1)-xl-xl.jpg)

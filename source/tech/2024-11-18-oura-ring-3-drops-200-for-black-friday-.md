@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://hips.hearstapps.com/hmg-prod/images/oura-ring-3-black-friday-sale-2024-67336b0534706.png?crop=1xw:1xh;center,top&resize=640:*)

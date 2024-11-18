@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://d.newsweek.com/en/full/2523385/stock-image-gmail-logo-phone.webp?w=1600&h=900&q=88&f=772da033a1bc5ffc7bf2a5805a3efd9a)

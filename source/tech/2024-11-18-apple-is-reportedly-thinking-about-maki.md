@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://gizmodo.com/app/uploads/2024/11/apple-TV.jpg)

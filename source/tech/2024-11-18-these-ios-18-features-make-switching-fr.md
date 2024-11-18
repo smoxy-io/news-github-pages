@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://www.cnet.com/a/img/resize/c29f6cc0433e5069a0cce43ace68419f03f17d79/hub/2024/11/13/c3f70fd7-4530-4f93-b0ef-16a82f5b8aa2/hero.jpg?auto=webp&fit=crop&height=675&width=1200)

@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/57a0d7640a8edc3d16e3d7c80aa577f1.jpg)

@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://www.bleepstatic.com/content/hl-images/2023/10/06/Microsoft_365.jpg)

@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1028710354/image_1028710354.jpg?io=getty-c-w750)

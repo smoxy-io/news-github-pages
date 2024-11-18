@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Sports
+categories:
+  - sports
 ---
 
 ![](https://sportshub.cbsistatic.com/i/r/2024/11/18/348bcb55-f3fc-42cf-8699-7ac35f3e9e46/thumbnail/1200x675/d1a7174f968a5bbd18e376d8f0baa330/devito-lock-g.jpg)

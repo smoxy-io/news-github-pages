@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://www.pcworld.com/wp-content/uploads/2024/11/silverstone-FLP01-1.jpg?quality=50&strip=all&w=1024)

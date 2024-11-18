@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Sports
+categories:
+  - sports
 ---
 
 ![](https://lede-admin.defector.com/wp-content/uploads/sites/28/2024/11/GettyImages-2185314106.jpg)

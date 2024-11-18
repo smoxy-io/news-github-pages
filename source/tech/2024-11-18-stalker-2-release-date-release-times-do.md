@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://images.purexbox.com/d82bf6e0e18ff/1280x720.jpg)

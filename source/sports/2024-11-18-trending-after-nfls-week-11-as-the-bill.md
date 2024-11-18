@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Sports
+categories:
+  - sports
 ---
 
 ![](https://static01.nyt.com/athletic/uploads/wp/2024/11/18110606/ScoopCity_Template-9.png?width=1200&height=675&fit=cover)

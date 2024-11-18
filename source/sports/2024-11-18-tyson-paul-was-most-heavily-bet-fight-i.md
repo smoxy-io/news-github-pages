@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Sports
+categories:
+  - sports
 ---
 
 ![](https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1116%2Fr1415509_1296x729_16%2D9.jpg)

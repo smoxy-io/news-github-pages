@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Sports
+categories:
+  - sports
 ---
 
 ![](https://thehill.com/wp-content/uploads/sites/2/2023/12/65821dd49da449.52216690-e1731947404665.jpeg?strip=1&w=640)

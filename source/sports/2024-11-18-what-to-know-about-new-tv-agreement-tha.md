@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Sports
+categories:
+  - sports
 ---
 
 ![](https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/18/USAT/76403997007-usatsi-12710163.jpg?crop=1598,900,x0,y299&width=1598&height=799&format=pjpg&auto=webp)

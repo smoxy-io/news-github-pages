@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://www.cnet.com/a/img/resize/f6a5ee162d5d775af25f12103424bfd4ec04faf5/hub/2022/11/01/ea749484-db58-45a0-9540-37b45baf0020/apple-tv-4k-streaming-box-5111.jpg?auto=webp&fit=crop&height=675&width=1200)

@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9AIm5rKfM3N1GWvQ5LENB8xhHLB3yMtP2556OI9VfT5WtoR3cb_AEP2E-UwjM-tDtvdHm9FPsSLfeoaBz2jyKywylhU4xc_VdFYgklpiwkdXcX49Ydcek3eSmp4nRTKGCPSAKbvlLxV1OwagY-eUtsM9i865KvU3p1H1kMz-KGQxYVQI_S7yusr99RR1D/s728-rw-e365/email.png)

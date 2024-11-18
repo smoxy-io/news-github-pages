@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Sports
+categories:
+  - sports
 ---
 
 ![](https://nypost.com/wp-content/uploads/sites/2/2024/11/newspress-collage-co061yko7-1731941583222.jpg?quality=75&strip=all&1731923634&w=1024)

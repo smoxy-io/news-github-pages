@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://hips.hearstapps.com/hmg-prod/images/oura-ring-sale-673b5bfbdd6fd.jpg?crop=1xw:0.9961089494163424xh;center,top&resize=640:*)

@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Sports
+categories:
+  - sports
 ---
 
 ![](https://static01.nyt.com/athletic/uploads/wp/2024/11/16220103/inside-the-nba-anchors-scaled.jpg?width=1200&height=675&fit=cover)

@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Tech
+categories:
+  - tech
 ---
 
 ![](https://s.yimg.com/ny/api/res/1.2/neV5G_thMXaWDHP89dlfLg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDA-/https:/s.yimg.com/os/creatr-uploaded-images/2024-11/4f45b940-a59e-11ef-be6f-35d98823d20d)

@@ -9,6 +9,8 @@ hide: false
 toc: false
 tags:
   - Sports
+categories:
+  - sports
 ---
 
 ![](https://www.nj.com/resizer/v2/2FYWG2S4NRFV3KOWDJIEVKXA74.jpg?auth=0884115dffa424763ea6ab145c2271fc5ecc1c807ebfe779104ad8c62e8f5f43&width=1280&quality=90)
