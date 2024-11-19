@@ -1,7 +1,7 @@
 title: Stock market today Asian shares gain after Wall St regains its stride
-date: 2024-11-19 08:16:23 +0000
-author: "ELAINE KURTENBACH - AP Business Writer"
-cover: https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/ec/6eccab9d-c7e9-5213-98f0-2bd51790d3c7/673c2db57d592.image.jpg?crop=1763%2C926%2C0%2C124&resize=438%2C230&order=crop%2Cresize
+date: 2024-11-19 06:05:58 +0000
+author: "ELAINE KURTENBACH, AP Business Writer"
+cover: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ukFeI.img?w=768&h=512&m=4&q=98
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - business
 ---
 
-![](https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/ec/6eccab9d-c7e9-5213-98f0-2bd51790d3c7/673c2db57d592.image.jpg?crop=1763%2C926%2C0%2C124&resize=438%2C230&order=crop%2Cresize)
+![](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ukFeI.img?w=768&h=512&m=4&q=98)
 
-Shares have advanced in Asia after most U.S. stocks ticked higher, recovering some of their swoon from last week. Chinese shares wavered under concern over potential tariff hikes on by
+BANGKOK (AP) — Asian shares advanced Tuesday after most U.S. stocks ticked higher to recover some of their swoon from last week. Oil prices fell and U.S. futures edged higher. Tokyo's Nikkei 225 rose 0.5% to 38,414.43 and the Kospi in Seoul was up 0.1% to 2,471.95. Chinese shares rebounded from early losses. They have wavered under concern over potential tariff hikes on by President-elect Donald Trump’s future administration and worries that...
 
-[read more](https://lancasteronline.com/business/stock_market/stock-market-today-asian-shares-gain-after-wall-st-regains-its-stride/article_117e28a3-08a1-5e2d-b382-2c2f8cf209a9.html)
+[read more](https://www.msn.com/en-us/money/markets/stock-market-today-world-shares-are-mixed-after-wall-st-regains-its-stride/ar-AA1ukKvj)
