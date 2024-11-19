@@ -1,7 +1,7 @@
 title: Howard Stern Warns Netflix Over Tyson-Paul Technical Issues Hell To Pay
 date: 2024-11-18 22:22:42 +0000
 author: "James Hibberd"
-cover: https://www.hollywoodreporter.com/wp-content/uploads/2024/11/GettyImages-2185318988-H-2024.jpg?w=1296&h=730&crop=1
+cover: https://s.yimg.com/ny/api/res/1.2/bAA1AKvMJtB.PhFQZaQZ5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https:/media.zenfs.com/en/the_hollywood_reporter_217/1d514c405f24cda472b80744ff3566a3
 draft: false
 top: false
 type: post
@@ -13,7 +13,7 @@ categories:
   - sports
 ---
 
-![](https://www.hollywoodreporter.com/wp-content/uploads/2024/11/GettyImages-2185318988-H-2024.jpg?w=1296&h=730&crop=1)
+![](https://s.yimg.com/ny/api/res/1.2/bAA1AKvMJtB.PhFQZaQZ5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https:/media.zenfs.com/en/the_hollywood_reporter_217/1d514c405f24cda472b80744ff3566a3)
 
 The Sirius XM host spoke out about the fight's buffering issues, while Netflix tried to joke about their live streaming problem.
 
