@@ -1,7 +1,7 @@
-title: Elden Ring Shadow of the Erdtree shouldnt be eligible for Game of the Year
-date: 2024-11-19 13:00:20 +0000
-author: "Ali Jones"
-cover: https://cdn.mos.cms.futurecdn.net/UXQa8kJ7ukqubdqdAysqFK-1200-80.jpg
+title: Elden Ring Shadow Of The Erdtree Should Not Win Or Be Nominated For GOTY 2024
+date: 2024-11-19 14:10:55 +0000
+author: "Paul Tassi"
+cover: https://imageio.forbes.com/specials-images/imageserve/673c9b8d90229465be451295/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - tech
 ---
 
-![](https://cdn.mos.cms.futurecdn.net/UXQa8kJ7ukqubdqdAysqFK-1200-80.jpg)
+![](https://imageio.forbes.com/specials-images/imageserve/673c9b8d90229465be451295/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds)
 
-Even in a weaker year, plenty of deserving games have now missed out
+This year, it was prominently broadcast that DLC and expansions would be eligible for all categories. So the Elden Ring expansion, Shadow of the Erdtree, was nominated multiple times.
 
-[read more](https://www.gamesradar.com/games/action-rpg/elden-ring-shadow-of-the-erdtree-shouldnt-be-eligible-for-game-of-the-year/)
+[read more](https://www.forbes.com/sites/paultassi/2024/11/19/elden-ring-shadow-of-the-erdtree-should-not-win-or-be-nominated-for-goty-2024/)
