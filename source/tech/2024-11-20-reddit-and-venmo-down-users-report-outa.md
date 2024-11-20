@@ -1,7 +1,7 @@
 title: Reddit and Venmo down Users report outages on multiple social media sites
-date: 2024-11-20 21:13:55 +0000
+date: 2024-11-20 21:00:52 +0000
 author: "Mike Bedigan"
-cover: https://media.zenfs.com/en/the_independent_635/8c4f73742d53e70216b5a4723cc78f3b
+cover: https://static.independent.co.uk/2023/08/25/15/3_2.png?quality=75&width=1200&auto=webp
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - tech
 ---
 
-![](https://media.zenfs.com/en/the_independent_635/8c4f73742d53e70216b5a4723cc78f3b)
+![](https://static.independent.co.uk/2023/08/25/15/3_2.png?quality=75&width=1200&auto=webp)
 
-The cause of the widespread outages is currently unknown
+Users have reported outages on multiple social media sites including Reddit, Bluesky and Venmo.
 
 [read more](https://www.independent.co.uk/news/world/americas/venmo-reddit-outage-down-site-crash-b2650836.html)
