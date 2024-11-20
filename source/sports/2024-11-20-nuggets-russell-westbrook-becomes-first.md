@@ -1,7 +1,7 @@
-title: Nuggets Russell Westbrook becomes first NBA player to record 200 triple-doubles
-date: 2024-11-20 03:58:13 +0000
-author: "Jack Baer"
-cover: https://s.yimg.com/ny/api/res/1.2/iQ6fq0kFgWPajmVPTA0dCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https:/s.yimg.com/os/creatr-uploaded-images/2024-11/49e801a0-a6f3-11ef-97de-3b3c50b2a66c
+title: Nuggets Russell Westbrook becomes first player in NBA history to reach 200 triple-doubles
+date: 2024-11-20 05:15:35 +0000
+author: "@cbssports"
+cover: https://sportshub.cbsistatic.com/i/r/2024/11/20/68606096-a139-4f19-a81a-83a24eb29f74/thumbnail/1200x675/fd035fa063bf4fa3370c268bc6a57734/russ.png
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - sports
 ---
 
-![](https://s.yimg.com/ny/api/res/1.2/iQ6fq0kFgWPajmVPTA0dCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https:/s.yimg.com/os/creatr-uploaded-images/2024-11/49e801a0-a6f3-11ef-97de-3b3c50b2a66c)
+![](https://sportshub.cbsistatic.com/i/r/2024/11/20/68606096-a139-4f19-a81a-83a24eb29f74/thumbnail/1200x675/fd035fa063bf4fa3370c268bc6a57734/russ.png)
 
-The Nuggets guard also received one of the softest techs of his career.
+Westbrook was the second player ever to average a triple-double for a full season
 
-[read more](https://sports.yahoo.com/nuggets-russell-westbrook-becomes-first-nba-player-to-record-200-triple-doubles-035813581.html)
+[read more](https://www.cbssports.com/nba/news/nuggets-russell-westbrook-becomes-first-player-in-nba-history-to-reach-200-triple-doubles/)
