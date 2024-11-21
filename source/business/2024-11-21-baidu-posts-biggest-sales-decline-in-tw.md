@@ -1,7 +1,7 @@
 title: Baidu Posts Biggest Sales Decline in Two Years During Downturn
-date: 2024-11-21 09:08:19 +0000
+date: 2024-11-21 09:08:20 +0000
 author: "Bloomberg News"
-cover: https://s.yimg.com/ny/api/res/1.2/OknRS60hMNibwDk7RmTc0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjI-/https:/media.zenfs.com/en/bloomberg_technology_68/5414758fd9a9cc15b7b5e4848949f811
+cover: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5ZHTQ9h.WKU/v0/1200x800.jpg
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - business
 ---
 
-![](https://s.yimg.com/ny/api/res/1.2/OknRS60hMNibwDk7RmTc0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjI-/https:/media.zenfs.com/en/bloomberg_technology_68/5414758fd9a9cc15b7b5e4848949f811)
+![](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5ZHTQ9h.WKU/v0/1200x800.jpg)
 
-(Bloomberg) -- Baidu Inc. recorded its biggest revenue drop in more than two years after China’s economic malaise undermined its push into generative AI.Most Read from BloombergTrump Promises Could Have Seismic Impact on Washington EconomyParis to Replace Parking Spaces With TreesTokyo’s Scorching Summers Focus Public Anger Against Tree CuttingNew York’s Transit Agency Approves $9 Congestion TollNYC Mayor Adams Names Jessica Tisch to Lead Police Head Amid ProbesRevenue for the three months ended
+Baidu Inc. recorded its biggest revenue drop in more than two years after China’s economic malaise undermined its push into generative AI.
 
-[read more](https://finance.yahoo.com/news/baidu-posts-biggest-sales-decline-090819874.html)
+[read more](https://www.bloomberg.com/news/articles/2024-11-21/baidu-posts-biggest-sales-decline-in-two-years-during-downturn)
