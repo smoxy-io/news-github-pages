@@ -1,7 +1,7 @@
-title: Julian Lewis commits to Colorado Deion Sanders as Top247 QB completes flip from USC
-date: 2024-11-21 17:10:00 +0000
-author: "Tom Loy"
-cover: https://s3media.247sports.com/Uploads/Assets/933/540/12540933.png?width=1200&height=600&crop=2:1&fit=cover
+title: Julian Lewis commits to Colorado Deion Sanders sets up for second act as Buffs land four-star QB prospect
+date: 2024-11-21 17:13:33 +0000
+author: "@cbssports"
+cover: https://sportshub.cbsistatic.com/i/r/2024/11/21/8e10eb41-d5c1-477f-baa1-a59849dcd8f9/thumbnail/1200x675/9ed48ffe3663314647079d3c24e83bd5/julian-lewis.png
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - sports
 ---
 
-![](https://s3media.247sports.com/Uploads/Assets/933/540/12540933.png?width=1200&height=600&crop=2:1&fit=cover)
+![](https://sportshub.cbsistatic.com/i/r/2024/11/21/8e10eb41-d5c1-477f-baa1-a59849dcd8f9/thumbnail/1200x675/9ed48ffe3663314647079d3c24e83bd5/julian-lewis.png)
 
-Carrollton (Ga.) High four-star Julian Lewis, 247Sports' No. 115 overall prospect and No. 9 quarterback in college football's 2025 recruiting class, decommitted from USC Nov. 17 and flipped to Deion Sanders' Colorado program.
+Lewis is the first blue-chip quarterback Colorado has landed in the modern era
 
-[read more](https://247sports.com/article/julian-lewis-commits-to-colorado-deion-sanders-as-top247-qb-completes-flip-from-usc-234531251/)
+[read more](https://www.cbssports.com/college-football/news/julian-lewis-commits-to-colorado-deion-sanders-sets-up-for-second-act-as-buffs-land-four-star-qb-prospect/)
