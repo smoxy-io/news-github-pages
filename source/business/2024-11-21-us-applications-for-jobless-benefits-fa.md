@@ -1,7 +1,7 @@
 title: US applications for jobless benefits fall to 213000 remaining near 7-month lows
-date: 2024-11-21 14:20:52 +0000
-author: "MATT OTT, Associated Press"
-cover: https://thehill.com/wp-content/uploads/sites/2/2024/11/673f39b7a4f371.72216126.jpeg?strip=1&w=640
+date: 2024-11-21 13:44:31 +0000
+author: "ABC News"
+cover: https://i.abcnewsfe.com/a/cfb20de7-2478-4a1b-b38d-0cd68bc2c0f2/wirestory_5a682929bf13de5c03a2843bf7d90613_16x9.jpg?w=1600
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - business
 ---
 
-![](https://thehill.com/wp-content/uploads/sites/2/2024/11/673f39b7a4f371.72216126.jpeg?strip=1&w=640)
+![](https://i.abcnewsfe.com/a/cfb20de7-2478-4a1b-b38d-0cd68bc2c0f2/wirestory_5a682929bf13de5c03a2843bf7d90613_16x9.jpg?w=1600)
 
-The number of Americans applying for unemployment benefits fell again last week, remaining near seven-month lows. The Labor Department reported Thursday that jobless claim applications fell by 6,00…
+The number of Americans applying for unemployment benefits fell again last week, remaining near seven-month lows
 
-[read more](https://thehill.com/homenews/ap/ap-business/ap-us-applications-for-jobless-benefits-fall-to-213000-remaining-near-7-month-lows/)
+[read more](https://abcnews.go.com/Business/wireStory/us-applications-jobless-benefits-fall-213000-remaining-7-116090504)
