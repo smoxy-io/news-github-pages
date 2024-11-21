@@ -1,7 +1,7 @@
 title: Which iPhone model is the most popular A new report has the answer
-date: 2024-11-21 07:33:26 +0000
+date: 2024-11-21 15:33:26 +0000
 author: "Bryan M. Wolfe"
-cover: https://www.digitaltrends.com/wp-content/uploads/2024/10/iphone-16-ultramarine-hands-on-3.jpeg?resize=800%2C418&p=1
+cover: https://s.yimg.com/ny/api/res/1.2/l6_hK2ijZg91qnEKvgBwMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https:/media.zenfs.com/en/digital_trends_973/b1c65f1d53914ffdfa2cc36da224fbe8
 draft: false
 top: false
 type: post
@@ -13,7 +13,7 @@ categories:
   - tech
 ---
 
-![](https://www.digitaltrends.com/wp-content/uploads/2024/10/iphone-16-ultramarine-hands-on-3.jpeg?resize=800%2C418&p=1)
+![](https://s.yimg.com/ny/api/res/1.2/l6_hK2ijZg91qnEKvgBwMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https:/media.zenfs.com/en/digital_trends_973/b1c65f1d53914ffdfa2cc36da224fbe8)
 
 Which iPhone model is more popular: the regular or the Pro? The answer might surprise you.
 
