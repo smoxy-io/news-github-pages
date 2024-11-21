@@ -1,7 +1,7 @@
 title: US existing home sales rebound in October
-date: 2024-11-21 15:01:29 +0000
-author: "Reuters"
-cover: https://media.zenfs.com/en/reuters-finance.com/00d84c534f3b847a855107008b0381f3
+date: 2024-11-21 18:14:07 +0000
+author: "USA TODAY"
+cover: https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/17/USAT/75725091007-usatsi-24497462.jpg?crop=4031,2269,x0,y377&width=1600&height=800&format=pjpg&auto=webp
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - business
 ---
 
-![](https://media.zenfs.com/en/reuters-finance.com/00d84c534f3b847a855107008b0381f3)
+![](https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/17/USAT/75725091007-usatsi-24497462.jpg?crop=4031,2269,x0,y377&width=1600&height=800&format=pjpg&auto=webp)
 
-U.S. existing home sales rebounded sharply in October, posting the first annual gain since mid-2021, as buyers rushed into the market to take advantage of a brief decline in mortgage rates. Home sales jumped 3.4% last month to a seasonally adjusted annual rate of 3.96 million units, the National Association of Realtors said on Thursday. "The worst of the downturn in home sales could be over, with increasing inventory leading to more transactions," said Lawrence Yun, the NAR's chief economist.
+Sales slumped to a rate of 3.83 million units in September, which was the lowest since October 2010.
 
-[read more](https://finance.yahoo.com/news/us-existing-home-sales-rebound-150129742.html)
+[read more](https://www.usatoday.com/story/money/2024/11/21/existing-home-sales-rebound-october/76479811007/)

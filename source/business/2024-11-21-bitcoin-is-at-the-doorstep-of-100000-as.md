@@ -1,7 +1,7 @@
 title: Bitcoin is at the doorstep of 100000 as post-election rally rolls on
-date: 2024-11-21 13:38:02 +0000
-author: "WYATTE GRANTHAM-PHILIPS"
-cover: https://s.yimg.com/ny/api/res/1.2/svZ6Fy3CphwMHV96OJFYqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/media.zenfs.com/en/ap_finance_articles_694/e0bf6afee912dfbfe7882528c004fb3f
+date: 2024-11-21 18:27:47 +0000
+author: "WYATTE GRANTHAM-PHILIPS, Associated Press"
+cover: https://thehill.com/wp-content/uploads/sites/2/2024/11/673f7c82a286a9.05948505.jpeg?strip=1&w=640
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - business
 ---
 
-![](https://s.yimg.com/ny/api/res/1.2/svZ6Fy3CphwMHV96OJFYqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/media.zenfs.com/en/ap_finance_articles_694/e0bf6afee912dfbfe7882528c004fb3f)
+![](https://thehill.com/wp-content/uploads/sites/2/2024/11/673f7c82a286a9.05948505.jpeg?strip=1&w=640)
 
-Bitcoin topped $98,000 for the first time Thursday, extending a streak of almost daily all-time highs since the U.S. presidential election. The cryptocurrency has rocketed more than 40% in just two weeks. Now, bitcoin is at the doorstep of $100,000 and investors do not appear to be phased by gravity or any cautionary tales of the cryptocurrencies history of volatility.
+NEW YORK (AP) — Bitcoin topped $98,000 for the first time Thursday, extending a streak of record after record highs since the U.S. presidential election. The cryptocurrency has rocketed more than 4…
 
-[read more](https://finance.yahoo.com/news/bitcoin-doorstep-100-000-post-133802281.html)
+[read more](https://thehill.com/homenews/ap/ap-business/ap-bitcoin-is-at-the-doorstep-of-100000-as-post-election-rally-rolls-on-3/)
