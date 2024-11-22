@@ -1,7 +1,7 @@
-title: OpenAI Considers Taking on Google With Browser
-date: 2024-11-21 21:19:35 +0000
-author: "Erin Woo,Sahil Patel,Amir Efrati"
-cover: https://tii.imgix.net/production/articles/14039/4903a25a-e79b-46d3-8c43-faff3d810a0f.jpg?fm=jpg&auto=compress&w=1200&frame=0
+title: OpenAI considers taking on Google with browser partnering with
+date: 2024-11-21 23:22:48 +0000
+author: "Reuters"
+cover: https://nypost.com/wp-content/uploads/sites/2/2024/11/open-ai-chatgpt-google.jpg?quality=75&strip=all&1732211923&w=1024
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - tech
 ---
 
-![](https://tii.imgix.net/production/articles/14039/4903a25a-e79b-46d3-8c43-faff3d810a0f.jpg?fm=jpg&auto=compress&w=1200&frame=0)
+![](https://nypost.com/wp-content/uploads/sites/2/2024/11/open-ai-chatgpt-google.jpg?quality=75&strip=all&1732211923&w=1024)
 
-OpenAI is preparing to launch a frontal assault on Google. The ChatGPT owner recently considereddevelopinga web browser that it would combine with its chatbot, and it has separately discussed or struck deals to power search features for travel, food, real estate and retail websites, according to ...
+Google's dominance in the browser market became precarious after the DOJ argued that the company should sell its Chrome browser to end its monopoly on online search.
 
-[read more](https://www.theinformation.com/articles/openai-considers-taking-on-google-with-browser)
+[read more](https://nypost.com/2024/11/21/business/openai-considers-taking-on-google-with-browser-partnering-with-samsung-report/)
