@@ -1,7 +1,7 @@
 title: How World of Warcraft Reinvented the Global Gaming Community
 date: 2024-11-23 15:00:00 +0000
 author: "Cameron Koch"
-cover: https://s.yimg.com/ny/api/res/1.2/2JuEN93VI6Ynpk1c14rd4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https:/media.zenfs.com/en/rollingstone.com/7ec5594ecd0b8316ac45eb178c1b2e6f
+cover: https://www.rollingstone.com/wp-content/uploads/2024/11/wow-ft3.jpg?w=1600&h=900&crop=1
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - tech
 ---
 
-![](https://s.yimg.com/ny/api/res/1.2/2JuEN93VI6Ynpk1c14rd4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https:/media.zenfs.com/en/rollingstone.com/7ec5594ecd0b8316ac45eb178c1b2e6f)
+![](https://www.rollingstone.com/wp-content/uploads/2024/11/wow-ft3.jpg?w=1600&h=900&crop=1)
 
-20 years ago, Blizzard's online multiplayer RPG introduced an always online social game that would become a lifestyle
+Blizzard's 'World of Warcraft' introduced mainstream gamers to clans, guilds, and an ever evolving live-service life
 
 [read more](https://www.rollingstone.com/culture/rs-gaming/world-of-warcraft-20-anniversary-1235176713/)
