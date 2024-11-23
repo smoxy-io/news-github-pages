@@ -1,7 +1,7 @@
 title: ChatGPT updates warehouse robots and special agents This weeks AI launches
-date: 2024-11-23 10:00:01 +0000
+date: 2024-11-23 10:00:00 +0000
 author: "Britney Nguyen"
-cover: https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/93f097ff5b51b382211ac129439e3e9e.jpg
+cover: https://media.zenfs.com/en/quartz.com/574d32084da891a8a5bdef0ea05984d1
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - tech
 ---
 
-![](https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/93f097ff5b51b382211ac129439e3e9e.jpg)
+![](https://media.zenfs.com/en/quartz.com/574d32084da891a8a5bdef0ea05984d1)
 
-Plus, biotech company Enveda announced an oversubscribed $130 million Series C funding round
+Each week, Quartz rounds up product launches, updates, and funding news from artificial intelligence-focused startups and companies.
 
-[read more](https://qz.com/openai-chatgpt-physical-ai-agents-startup-funding-1851706500)
+[read more](https://www.yahoo.com/tech/chatgpt-updates-warehouse-robots-special-100000547.html)
