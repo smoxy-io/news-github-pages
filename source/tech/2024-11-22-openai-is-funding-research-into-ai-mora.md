@@ -1,7 +1,7 @@
 title: OpenAI is funding research into AI morality
 date: 2024-11-22 22:25:27 +0000
 author: "Kyle Wiggers"
-cover: https://techcrunch.com/wp-content/uploads/2024/01/pixta_94590765_L.jpg?resize=1200,675
+cover: https://s.yimg.com/ny/api/res/1.2/Gv0O.Oud5pQNxbc0KHsLng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https:/media.zenfs.com/en/techcrunch_350/410693216c80aea2e1015dd4a6016b61
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - tech
 ---
 
-![](https://techcrunch.com/wp-content/uploads/2024/01/pixta_94590765_L.jpg?resize=1200,675)
+![](https://s.yimg.com/ny/api/res/1.2/Gv0O.Oud5pQNxbc0KHsLng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https:/media.zenfs.com/en/techcrunch_350/410693216c80aea2e1015dd4a6016b61)
 
-OpenAI is funding academic research at Duke into algorithms that can predict humans' moral judgements.
+In a filing with the IRS, OpenAI Inc., OpenAI's nonprofit org, disclosed that it awarded a grant to Duke University researchers for a project titled "Research AI Morality." Little is public about this "morality" research OpenAI is funding, other than the fact that the grant ends in 2025. The study's principal investigator, Walter Sinnott-Armstrong, a practical ethics professor at Duke, told TechCrunch via email that he "will not be able to talk" about the work.
 
-[read more](https://techcrunch.com/2024/11/22/openai-is-funding-research-into-ai-morality/)
+[read more](https://finance.yahoo.com/news/openai-funding-research-ai-morality-222527551.html)
