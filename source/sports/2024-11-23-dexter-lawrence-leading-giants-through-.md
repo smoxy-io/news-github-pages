@@ -1,7 +1,7 @@
 title: Dexter Lawrence leading Giants through latest transition
 date: 2024-11-23 09:30:06 +0000
 author: "John Fennelly"
-cover: https://giantswire.usatoday.com/wp-content/uploads/sites/67/2023/12/1862689414.jpg?w=640
+cover: https://s.yimg.com/ny/api/res/1.2/pbKJp.MV5VdBMPpryKVULw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https:/media.zenfs.com/en/new_york_giants_wire_usa_today_sports_articles_591/d2e5cafb5aa281718752c6d84843bae9
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - sports
 ---
 
-![](https://giantswire.usatoday.com/wp-content/uploads/sites/67/2023/12/1862689414.jpg?w=640)
+![](https://s.yimg.com/ny/api/res/1.2/pbKJp.MV5VdBMPpryKVULw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https:/media.zenfs.com/en/new_york_giants_wire_usa_today_sports_articles_591/d2e5cafb5aa281718752c6d84843bae9)
 
-As the New York Giants go through more changes, nose tackle Dexter Lawrence has emerged as the team’s true leader.
+New York Giants All-Pro defensive tackle Dexter Lawrence is the closest thing the team has to a leader. As they continue to go through changes and transition, he knows he has to keep his emotions in check. This week, the Giants made the decision to bench (and…
 
 [read more](https://giantswire.usatoday.com/2024/11/23/dexter-lawrence-leading-new-york-giants-through-latest-transition/)
