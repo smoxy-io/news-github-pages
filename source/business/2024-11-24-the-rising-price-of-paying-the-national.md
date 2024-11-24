@@ -1,7 +1,7 @@
 title: The rising price of paying the national debt is a risk for Trumps promises on growth and inflation
-date: 2024-11-24 12:40:59 +0000
-author: "JOSH BOAK,FATIMA HUSSEIN"
-cover: https://dims.apnews.com/dims4/default/200be0a/2147483647/strip/true/crop/5795x3260+0+302/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd7%2F55%2F2b1e4d4d2e684ec13cd22bcba54f%2Fbc4192e087704795a738260c492ad1f8
+date: 2024-11-24 12:40:58 +0000
+author: "JOSH BOAK and FATIMA HUSSEIN"
+cover: https://s.yimg.com/ny/api/res/1.2/EPhHjwCr2LPIxnE5enrejw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/media.zenfs.com/en/ap_finance_articles_694/83b29be6181193edc2786b74f0b0d930
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - business
 ---
 
-![](https://dims.apnews.com/dims4/default/200be0a/2147483647/strip/true/crop/5795x3260+0+302/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd7%2F55%2F2b1e4d4d2e684ec13cd22bcba54f%2Fbc4192e087704795a738260c492ad1f8)
+![](https://s.yimg.com/ny/api/res/1.2/EPhHjwCr2LPIxnE5enrejw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/media.zenfs.com/en/ap_finance_articles_694/83b29be6181193edc2786b74f0b0d930)
 
-Donald Trump has big plans for the economy. He also has big debt problem that'll be a hurdle to delivering on those plan.
+Donald Trump has big plans for the economy — and a big debt problem that will be a hurdle to delivering on them. Trump has bold ideas on tax cuts, tariffs and other programs, but high interest rates and the price of repaying the federal government’s existing debt could limit what he’s able to do. Not only is the federal debt at roughly $36 trillion, but the spike in inflation after the coronavirus pandemic has pushed up the government's borrowing costs such that debt service next year will easily exceed spending on national security.
 
-[read more](https://apnews.com/article/trump-national-debt-inflation-economic-growth-spending-895ec1551122a0e1babf24b657f650bb)
+[read more](https://finance.yahoo.com/news/rising-price-paying-national-debt-124058886.html)
