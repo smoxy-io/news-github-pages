@@ -1,7 +1,7 @@
-title: NFL Week 12 bold predictions Drake Maye powers Patriots to upset of Tua Tagovailoas Dolphins
-date: 2024-11-24 11:00:41 +0000
+title: NFL Week 12 bold predictions Drake Maye leads Patriots to upset over Tua Tagovailoa Dolphins
+date: 2024-11-24 16:29:00 +0000
 author: "@garrettpodell"
-cover: https://sportshub.cbsistatic.com/i/r/2024/11/14/13fcdf72-ea91-4983-b975-7b5ce133cdec/thumbnail/1200x675/f605f6742db26b03b787e242cf8f122c/drake-maye-cbs.jpg
+cover: https://sportshub.cbsistatic.com/i/r/2024/11/08/28a13859-db2b-4dcc-968d-98c3ea1a80c4/thumbnail/1200x675/c3ebcf09b4600581bc91ff87247bba9e/getty-drake-maye-patriots.jpg
 draft: false
 top: false
 type: post
@@ -13,8 +13,8 @@ categories:
   - sports
 ---
 
-![](https://sportshub.cbsistatic.com/i/r/2024/11/14/13fcdf72-ea91-4983-b975-7b5ce133cdec/thumbnail/1200x675/f605f6742db26b03b787e242cf8f122c/drake-maye-cbs.jpg)
+![](https://sportshub.cbsistatic.com/i/r/2024/11/08/28a13859-db2b-4dcc-968d-98c3ea1a80c4/thumbnail/1200x675/c3ebcf09b4600581bc91ff87247bba9e/getty-drake-maye-patriots.jpg)
 
 Five bold predictions for a Week 12 that began with an upset in Cleveland
 
-[read more](https://www.cbssports.com/nfl/news/nfl-week-12-bold-predictions-drake-maye-powers-patriots-to-upset-of-tua-tagovailoas-dolphins/)
+[read more](https://www.cbssports.com/nfl/news/nfl-week-12-bold-predictions-drake-maye-leads-patriots-to-upset-over-tua-tagovailoa-dolphins/)
